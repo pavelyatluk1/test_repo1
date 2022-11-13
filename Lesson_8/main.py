@@ -15,3 +15,4 @@ def test_function_2():
     import math
     l = 2 * math.pi * r
 r = float(input())
+print(test_function_2())
