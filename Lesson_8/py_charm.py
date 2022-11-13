@@ -1,6 +1,6 @@
-def rt()
-    s = a * b
-    return s
-a = int(input())
-b = int(input())
-print(rt())
+def sl():
+    import math
+    l = 2 * math.pi * r
+    return l
+r = float(input())
+print(sl())
