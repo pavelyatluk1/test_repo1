@@ -1,13 +1,11 @@
 def sqrt_1():
     sq = a * b
     return sq
-a = 10
-b = 5    
-   
+    
+    
     
 def test_function():
         import math
         s = math.pi * (r ** 2)
 r = float(input()) 
 print(test_function())       
-
