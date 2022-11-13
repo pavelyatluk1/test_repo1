@@ -3,4 +3,3 @@ def calc_sqrt():
     return s
 a = float(input())
 b = float(input())
-print(calc_sqrt())
